@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+heloo
+upigit 
+=======
+hello everyone
+>>>>>>> 5dc3282a2e3f554ffc923fd12af28492de2fdaed
